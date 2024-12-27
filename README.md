@@ -10,7 +10,7 @@ Visualização Prévia: Visualização prévia dos documentos antes de realizar 
 
 Configurações de Saída: Escolha do nome e localização do arquivo PDF resultante, com opções de compressão para reduzir o tamanho do arquivo.
 
-Funcionalidades Futuras: O PDF Merge Master está em constante evolução, com planos para adicionar uma variedade de funcionalidades que aumentarão ainda mais sua utilidade e versatilidade:
+Funcionalidades Futuras: O JuntarPDF está em constante evolução, com planos para adicionar uma variedade de funcionalidades que aumentarão ainda mais sua utilidade e versatilidade:
 
 Divisão de PDFs: Função para dividir um PDF em múltiplos arquivos menores com base em número de páginas, marcadores ou intervalos personalizados.
 
